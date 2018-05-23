@@ -1,4 +1,4 @@
-Lightning Exercise
+## Lightning Exercise
 
 1. Create three `<h3>` components in your index.html file and add any text you want to each.
 2. Use JavaScript to attach a click event listener to each one.
