@@ -1,0 +1,14 @@
+body{
+    background-color: lightcyan;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+h3{
+    text-align: center;
+    background-color: lightcoral;
+    width: 70%;
+    margin: auto;
+    padding: 8px;
+    margin-bottom: 8px;
+}
