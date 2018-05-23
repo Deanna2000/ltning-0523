@@ -13,6 +13,7 @@ h3{
     padding: 8px;
     margin-bottom: 12px;
     border: solid gray 1px;
+    border-radius: 5px;
     background-image: linear-gradient(rgba(240, 128, 128, 0.6), rgba(255, 255, 0, 0.5)),
                   url("./paisley.png");
     /* background-image:url("paisley.png"); */
